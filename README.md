@@ -198,3 +198,11 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 *Built with ❤️ using [Xiaomi MiMo V2.5](https://github.com/XiaoMi/MiMo) for long-chain reasoning in DeFi risk intelligence.*
+
+---
+
+## 📸 Proof of Work — Dashboard
+
+![Proof Dashboard](docs/images/proof_dashboard.png)
+
+> Live dashboard showing 1.49M+ tokens consumed, 72/72 tests passing, and real-time DeFi protocol monitoring.
